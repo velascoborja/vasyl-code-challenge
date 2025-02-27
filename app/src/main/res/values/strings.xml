@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Vasyl Challenge</string>
+
+    <!--  Procedures list  -->
+    <string name="procedures_list_title">Procedures</string>
+    <string name="procedure_list_try_again_action">Try again</string>
+    <string name="procedures_list_phase_count">Phase count: %1$s</string>
+
+    <!--  Favourite procedures  -->
+    <string name="favourite_procedures_title">Favourite procedures</string>
+    <string name="added_to_favourites">Added to favourites</string>
+    <string name="removed_from_favourites">Removed from favourites</string>
+
+</resources>
